@@ -1,0 +1,12 @@
+{
+    "name": "Piedra",
+    "description": "Una simple roca, robusta y sin pretensiones. Ni brillante ni valiosa, pero firme y confiable, es la esencia de lo cotidiano en su forma más pura",
+    "image": "ipfs://QmUWE63Lxg3188RHci8aKbJMYqp78crgSZ6bb5R3KZs6wR",
+    "attributes": [
+        {
+            "trait_type": "Audio Extract",
+            "value": "comun"
+        }
+        
+    ]
+}

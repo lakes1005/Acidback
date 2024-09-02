@@ -1,0 +1,12 @@
+{
+    "name": "Esmeralda",
+    "description": "Una esmeralda de claridad etérea, tan lujosa que parece salida de un sueño. Su brillo seductor corrompe a quien la posee, despertando una lujuria insaciable que consume el alma",
+    "image": "ipfs://QmaZivqHdjAxcWjYYh2R8icTZ6zacTvti2VvjZX9bN1AbZ",
+    "attributes": [
+        {
+            "trait_type": "Audio Extract",
+            "value": "Legendario"
+        }
+        
+    ]
+}

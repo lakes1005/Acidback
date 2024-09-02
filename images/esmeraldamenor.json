@@ -1,0 +1,12 @@
+{
+    "name": "EsmeraldaMenor",
+    "description": "Una esmeralda menor, perdida hace milenios, con una forma tan curiosa que parece más una travesura de la naturaleza que una joya preciosa. A pesar de su rareza, su peculiar apariencia no logra despertar el interés de muchos comerciantes",
+    "image": "ipfs://QmWkgAFqi5sc1j9dnPW7nZUhsPYGZorJAibs9XQ3jH2DP1",
+    "attributes": [
+        {
+            "trait_type": "Audio Extract",
+            "value": "Legendario"
+        }
+       
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Carbón",
+    "description": "Un simple trozo de carbón, oscuro y ordinario. Sin brillo ni misterio, es una carta que pasa desapercibida, sin promesas de magia o aventura. Sin embargo, en el mundo de lo extraordinario, incluso lo más común puede esconder una chispa de potencial",
+    "image": "ipfs://QmaxWUhDbusG54931zYVNbKLEK4Zm9Q5Kh9frebwjmec2k",
+    "attributes": [
+        {
+            "trait_type": "Audio Extract",
+            "value": "Comun"
+        }
+        
+    ]
+}

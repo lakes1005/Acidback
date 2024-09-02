@@ -1,0 +1,12 @@
+{
+    "name": "Pirita",
+    "description": "Es el guardián de los sueños, un mineral que, bajo su brillo dorado, esconde los deseos de aquellos que alguna vez creyeron en la magia",
+    "image": "ipfs://QmbSUkV9fPLmgTKTvK2pXSMV3myVAanfBWsk35RC1SNzaX",
+    "attributes": [
+        {
+            "trait_type": "Audio Extract",
+            "value": "Epico"
+        }
+      
+    ]
+}

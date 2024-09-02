@@ -1,0 +1,12 @@
+{
+    "name": "EsmeraldaAzul",
+    "description": "Una esmeralda azul, la más rara de todas, envuelta en un aura de misterio. Su color hipnotizante parece contener el cielo en su interior, pero advierte de un poder insondable: solo aquellos de corazón puro pueden resistir su influjo sin perderse en su profundo encanto",
+    "image": "ipfs://QmbmV51vDG6BHKP923KQNzEYqDTaPA5V3nPL6P8AG76GHB",
+    "attributes": [
+        {
+            "trait_type": "Audio Extract",
+            "value": "Legendario"
+        }
+        
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Cobre",
+    "description": "un mineral de tono rojizo y cálido. Común pero esencial, su brillo discreto esconde un valor práctico en su simplicidad",
+    "image": "ipfs://QmefzuRYdzRPVYGN2ia56Xi5WQjtzuG9tEy6Mu4ZyekmCN",
+    "attributes": [
+        {
+            "trait_type": "Audio Extract",
+            "value": "Epico"
+        }
+       
+    ]
+}
